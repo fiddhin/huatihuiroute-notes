@@ -1,2 +1,14 @@
 # huatihuiroute-notes
-HTML page archive and documentation
+
+仓库页面索引说明
+
+该目录保存页面发布文件，便于通过仓库历史查看变化。
+
+## 目录说明
+
+- `README.md` 用于记录仓库用途
+- HTML 文件用于承载发布页面
+
+## 更新方式
+
+自动发布任务会继续维护本仓库，文件变化以提交记录为准。
